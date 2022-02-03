@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/Sara9842/Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Sara9842/Auto-Filter-Bot-V2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
